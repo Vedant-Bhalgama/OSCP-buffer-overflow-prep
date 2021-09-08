@@ -17,3 +17,5 @@ I soon will be uploading all the exploits in this repository!
 * Server-StrCPY
 * CD-To-MP3 Converter 
 
+# Download Binaries
+* If you want to practice buffer overflows, I have also uploaded the executable files above which you can simply download and practice!
