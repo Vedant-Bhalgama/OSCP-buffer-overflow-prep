@@ -15,7 +15,6 @@ I soon will be uploading all the exploits in this repository!
 * VulnServer
 * FreeFloat FTP Server 1.0
 * Server-STRCPY
-* CD-To-MP3 Converter 
 * Brainpan
 * Brainstorm
 * OSCP Buffer Overflow Practice (TryHackMe) (Haven't done all 10, 6 more to go!)
