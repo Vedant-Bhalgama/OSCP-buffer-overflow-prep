@@ -14,8 +14,10 @@ I soon will be uploading all the exploits in this repository!
 # List of programs I exploited till now!
 * VulnServer
 * FreeFloat FTP Server 1.0
-* Server-StrCPY
+* Server-STRCPY
 * CD-To-MP3 Converter 
-
+* Brainpan
+* Brainstorm
+* OSCP Buffer Overflow Practice (TryHackMe) (Haven't done all 10, 6 more to go!)
 # Download Binaries
 * If you want to practice buffer overflows, I have also uploaded the executable files above which you can simply download and practice!
